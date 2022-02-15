@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Oral Reports
 uid: f39183da-003e-c574-87ff-7a696c66db0c
 ---
@@ -12,7 +14,7 @@ Suggest topics for oral reports:
 
 *   Britain's Divorce Act of 1857
 *   Rajah James Brooke of Sarawak
-*   The "Great Game"; the Afghan Wars of the 19th century
+*   The "Great Game"; the Afghan Wars of the 19{{< sup "th" >}} century
 *   Lohengrin, the Chevalier Bayard, and El Cid
 *   Charles Stewart Parnell and Michael Davitt
 *   Greek myths of Daedalus and Icarus (from Ovid); St. Stephen
