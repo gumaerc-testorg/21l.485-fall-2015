@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Essays
 uid: 71e961a6-19ac-3de2-0813-05d37a620d6c
 ---
@@ -23,7 +24,7 @@ I expect written work of the same caliber as the work required in your other MIT
 
 In reading your work, I do not distinguish between "content" and "style" or "quality of writing." How you decide to state something, how you assemble an argument, how you construct each and every sentence – these things _constitute_ your argument and are indistinguishable from its "content."
 
-[Advice on Writing]({{< baseurl >}}/pages/essays/advice-on-writing)
+{{< resource_link 1f822eab-6ff3-fe1f-cd67-bccf45141a9f "Advice on Writing" >}}
 -------------------------------------------------------------------
 
 On the Use of External Sources
@@ -34,7 +35,7 @@ You should have no need to consult any outside sources when you write your essay
 Topics for Essay 1
 ------------------
 
-Review the sections "[Guidelines for Essays]({{< baseurl >}}/pages/essays#G1)," "[Assessment of Writing]({{< baseurl >}}/pages/essays#G2)," and "[Advice on Writing]({{< baseurl >}}/pages/essays/advice-on-writing)". Choose one of the following and write an essay of about 2000–2500 words. Make generous use of passages from the text to support your argument.
+Review the sections "[Guidelines for Essays]({{< baseurl >}}/pages/essays#G1)," "[Assessment of Writing]({{< baseurl >}}/pages/essays#G2)," and "{{< resource_link 1f822eab-6ff3-fe1f-cd67-bccf45141a9f "Advice on Writing" >}}". Choose one of the following and write an essay of about 2000–2500 words. Make generous use of passages from the text to support your argument.
 
 1.  "Nothing can be done. Things are they are, and will be brought to their destined issue" (_Jude the Obscure_, 328). Jude quotes these words from Aeschylus's ancient Greek tragedy _Agamemnon_. Write about how Hardy attempts in _Jude_ to update the genre of tragedy for modern times. What forces work to give the novel an air of fatefulness or predestination?
 2.  "Done because we are too meny" (_Jude the Obscure_, 325). Write about the function of Little Father Time in _Jude_. How does his perspective resemble that of the novel's narrator? What kind of perspective could have led him to do what he does? How does his perspective relate to the discourse of Political Economy?
@@ -44,7 +45,7 @@ Review the sections "[Guidelines for Essays]({{< baseurl >}}/pages/essays#G1)," 
 Topics for Essay 2
 ------------------
 
-Review the sections "[Guidelines for Essays]({{< baseurl >}}/pages/essays#G1)," "[Assessment of Writing]({{< baseurl >}}/pages/essays#G2)," and "[Advice on Writing]({{< baseurl >}}/pages/essays/advice-on-writing)." Choose one of the following:
+Review the sections "[Guidelines for Essays]({{< baseurl >}}/pages/essays#G1)," "[Assessment of Writing]({{< baseurl >}}/pages/essays#G2)," and "{{< resource_link 1f822eab-6ff3-fe1f-cd67-bccf45141a9f "Advice on Writing" >}}." Choose one of the following:
 
 1.  In Kipling's _Kim_, the title character's ability to mix unnoticed among various types of Indians makes him valuable to the British Secret Service. In what ways does Kim's identity seem fluid and in what ways does it seem fixed? Make sure to write about Kim's training with Lurgan.
 2.  In Ford's _The Good Soldier_, is Dowell stupid? Or willfully blind? If the former, in what ways? If the latter, why?
