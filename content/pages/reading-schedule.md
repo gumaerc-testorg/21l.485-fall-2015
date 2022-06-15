@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: This section provides citations and links to the course textbooks.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Reading Schedule
 uid: b76d356e-4636-2c46-7d33-a6244cdd6017
 ---
