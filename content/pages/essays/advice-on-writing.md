@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section provides tips on writing.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Essays
+parent_type: CourseSection
 parent_uid: 71e961a6-19ac-3de2-0813-05d37a620d6c
 title: Advice on Writing
 uid: 1f822eab-6ff3-fe1f-cd67-bccf45141a9f
