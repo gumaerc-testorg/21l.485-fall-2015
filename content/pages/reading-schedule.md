@@ -9,15 +9,15 @@ uid: b76d356e-4636-2c46-7d33-a6244cdd6017
 
 The following schedule is meant to suggest the pace at which you should divide up your reading. In class, we will go slowly over some parts and quickly over others; we will also move readings up or push them back as seems necessary.
 
-\[Hardy\] = Hardy, Thomas. _Jude the Obscure (Oxford World's Classics)_. Oxford University Press, 2009. ISBN: 9780199537020. ([download](http://www.gutenberg.org/files/153/153-h/153-h.htm) a version from Project Gutenberg)
+\[Hardy\] = Hardy, Thomas. _Jude the Obscure (Oxford World's Classics)_. Oxford University Press, 2009. ISBN: 9780199537020. ({{% resource_link "12a1e8d2-b846-4c83-a0d8-595b3954caff" "download" %}} a version from Project Gutenberg)
 
-\[Conrad\] =  Conrad, Joseph. _Lord Jim (Penguin Classics)_. Penguin Books, 2007. ISBN: 9780141441610. ([download](http://www.gutenberg.org/files/5658/5658-h/5658-h.htm) a version from Project Gutenberg)
+\[Conrad\] =  Conrad, Joseph. _Lord Jim (Penguin Classics)_. Penguin Books, 2007. ISBN: 9780141441610. ({{% resource_link "80288352-5247-4572-9f3a-c7c01dfb4727" "download" %}} a version from Project Gutenberg)
 
-\[Kipling\] = Kipling, Rudyard. _Kim (Oxford World's Classics)_. Oxford University Press, 2008. ISBN: 9780199536467. \[Preview with [Google Books](http://books.google.com/books?id=Jn8BzInDRkkC&pg=PAfrontcover)\] ([download](http://www.gutenberg.org/files/2226/2226-h/2226-h.htm) a version from Project Gutenberg)
+\[Kipling\] = Kipling, Rudyard. _Kim (Oxford World's Classics)_. Oxford University Press, 2008. ISBN: 9780199536467. \[Preview with {{% resource_link "9e4fe608-e55d-48cf-a13a-1b53783772a1" "Google Books" %}}\] ({{% resource_link "2fb832aa-e767-45d5-b141-6b08280183b0" "download" %}} a version from Project Gutenberg)
 
-\[Ford\] = Ford, Ford Madox. _The Good Soldier (Penguin Classics)_. Penguin Classics, 2007. ISBN: 9780141441849. ([download](http://www.gutenberg.org/files/2775/2775-h/2775-h.htm) a version from Project Gutenberg)
+\[Ford\] = Ford, Ford Madox. _The Good Soldier (Penguin Classics)_. Penguin Classics, 2007. ISBN: 9780141441849. ({{% resource_link "23c4f443-fea8-4ad3-8805-b995df059628" "download" %}} a version from Project Gutenberg)
 
-\[Joyce\] = Joyce, James. _A Portrait of the Artist as a Young Man: Text, Criticism, and Notes (The Viking Critical Library)_. Penguin Books, 1977. ISBN: 9780140155037. ([download](http://www.gutenberg.org/files/4217/4217-h/4217-h.htm) a version from Project Gutenberg)
+\[Joyce\] = Joyce, James. _A Portrait of the Artist as a Young Man: Text, Criticism, and Notes (The Viking Critical Library)_. Penguin Books, 1977. ISBN: 9780140155037. ({{% resource_link "9888f4ca-1850-434c-b6d7-d5a9f643e9e0" "download" %}} a version from Project Gutenberg)
 
 \[Forster\] = Forster, E. M. _A Passage to India_. Mariner Books, 1965. ISBN: 9780156711425.
 
